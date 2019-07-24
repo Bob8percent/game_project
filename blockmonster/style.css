@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+}
+.containerAll{
+    width:70%;
+    height:80%;
+    margin:0 auto;
+}
+.game-place{
+    width: 100%;
+    height: 600px;
+    background-color:#ccc;
+    margin: 0 auto;
+
+}
+.how-to-play{
+    width:70%;
+    margin:0 auto;
+}
